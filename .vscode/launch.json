@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://floating-hamlet-88546.herokuapp.com/",
+            "request": "launch",
+            "url": "https://floating-hamlet-88546.herokuapp.com/"
+        }
+    ]
+}
