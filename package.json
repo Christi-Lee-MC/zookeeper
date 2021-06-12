@@ -1,25 +1,16 @@
 {
-  "name": "zookeeper",
+  "name": "main",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "",
+    "test": "jest",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Christi-Lee-MC/zookeeper.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Christi-Lee-MC/zookeeper/issues"
-  },
-  "homepage": "https://github.com/Christi-Lee-MC/zookeeper#readme",
   "dependencies": {
     "express": "^4.17.1"
-  },
-  "devDependencies": {}
+  }
 }
